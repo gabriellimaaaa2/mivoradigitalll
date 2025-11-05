@@ -124,7 +124,7 @@ body {
 }
 
 .scroll-down-btn {
-    margin-top: 2rem;
+    margin-top: 13rem;
     color: var(--white);
     border: 2px solid var(--white);
     border-radius: 50%;
@@ -172,7 +172,7 @@ body {
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s;
-    display: none;
+    
 
 }
 
